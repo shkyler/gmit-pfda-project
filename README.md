@@ -18,7 +18,7 @@ The dependencies for project are:
 * matplotlib.pyplot
 * numpy
 * pandas
-* seaborn
+* scipy.stats
 * Jupyter Notebooks
 
 It is recommended that the latest version of Anaconda is installed to ensure that all dependant software is installed and up to date.
@@ -29,13 +29,13 @@ The software can be downloaded and run on a machine as follows:
 
 * Clone the repository with the following command
 ```
-git clone https://github.com/shkyler/gmit-foda-project.git
+git clone https://github.com/shkyler/gmit-pfda-project.git
 ```
 * Run Jupyter Notebooks from the repository with the following command:
 ```
 jupyter notebook
 ```
 * Jupyter Notebooks should open in your default web browser
-* Open the `boxplot.ipynb` notebook
+* Open the `datasimulation.ipynb` notebook
 
 There is a good tutorial on Jupyter Notebooks available [here](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
