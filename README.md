@@ -6,10 +6,11 @@ This repository contains all of the files pertaining to my project submission fo
 ### Repository contents
 
 The repository contains:
-* datasimulation.ipynb - the notebook with all the project detail
+* datasimulation.ipynb - the notebook with all the project details
 * this README.md file
 * an `img` folder containing images for the notebook
 * a `data` folder containing the data set for the project
+* a `ref` folder containing some reference material
 
 ### Dependancies
 
@@ -19,9 +20,9 @@ The dependencies for project are:
 * numpy
 * pandas
 * scipy.stats
-* Jupyter Notebooks
+* [Jupyter Notebooks](https://jupyter.org/)
 
-It is recommended that the latest version of Anaconda is installed to ensure that all dependant software is installed and up to date.
+It is recommended that the latest version of [Anaconda](https://www.anaconda.com/) is installed to ensure that all dependant software is installed and up to date.
 
 ### Instructions for running the software
 
