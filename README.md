@@ -6,12 +6,12 @@ This repository contains all of the files pertaining to my project submission fo
 ### Repository contents
 
 The repository contains:
-* datasimulation.ipynb - the notebook with all the project details
-* this README.md file
+* `datasimulation.ipynb` - the notebook with all the project details
+* this `README.md` file
 * an `img` folder containing images for the notebook
 * a `data` folder containing the data set for the project
 * a `ref` folder containing some reference material
-* datasimulation.html - a [html rendered version](https://nbconvert.readthedocs.io/en/latest/) of the notebook that can be shared with non-technical colleagues and viewed with a web browser
+* `datasimulation.html` - a [html rendered version](https://nbconvert.readthedocs.io/en/latest/) of the notebook that can be shared with non-technical colleagues and viewed with a web browser
 
 ### Dependancies
 
