@@ -11,6 +11,7 @@ The repository contains:
 * an `img` folder containing images for the notebook
 * a `data` folder containing the data set for the project
 * a `ref` folder containing some reference material
+* datasimulation.html - a [html rendered version](https://nbconvert.readthedocs.io/en/latest/) of the notebook that can be shared with non-technical colleagues and viewed with a web browser
 
 ### Dependancies
 
